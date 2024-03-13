@@ -1,0 +1,212 @@
+[
+  {
+    "id": 1,
+    "name": "Intel Core i9-9900K",
+    "price": 499.99,
+    "category": "Processor",
+    "image_url": "https://c7.alamy.com/comp/2C7DXPT/bangkok-thailand-17-nov-2018-intel-core-i9-9900k-unlocked-a-new-processor-is-available-for-pc-desktop-and-work-on-socket-lga-1151-2C7DXPT.jpg"
+  },
+  {
+    "id": 2,
+    "name": "NVIDIA GeForce RTX 3080",
+    "price": 699.99,
+    "category": "Graphics Card",
+    "image_url": "https://www.nvidia.com/content/dam/en-zz/Solutions/geforce/ampere/rtx-3080/images/design/geforce-rtx-3080-1-960.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Corsair Vengeance LPX 16GB RAM",
+    "price": 79.99,
+    "category": "Memory",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-WLBQRAJaJHMfCLQf3wnbnFQpqaZE8GPouA&usqp=CAU"
+  },
+  {
+    "id": 4,
+    "name": "Samsung 970 EVO 1TB NVMe SSD",
+    "price": 149.99,
+    "category": "Storage",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzGZYFcR6Z7olLYz7QmHXga_ysfh-5dD7wcg&usqp=CAU"
+  },
+  {
+    "id": 5,
+    "name": "ASUS ROG Strix B450-F Gaming Motherboard",
+    "price": 129.99,
+    "category": "Motherboard",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrSfhkg7Rw-xPqo8uq_SCqaiW0umvOidEMBw&usqp=CAU"
+  },
+  {
+    "id": 6,
+    "name": "NZXT Kraken X63 RGB AIO Cooler",
+    "price": 149.99,
+    "category": "Cooling",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYmy6K4xLQYnfAiAC99-tkUA1Yul6feBriKw&usqp=CAU"
+  },
+  {
+    "id": 7,
+    "name": "Seagate Barracuda 2TB HDD",
+    "price": 59.99,
+    "category": "Storage",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAJWw4jbXneTz6deRruz3pqiRGYxJi_iq8MA&usqp=CAU"
+  },
+  {
+    "id": 8,
+    "name": "EVGA SuperNOVA 750W Gold PSU",
+    "price": 109.99,
+    "category": "Power Supply",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ59VHe75EjH2DMOCrHHwE5bww3qyguQGVgBg&usqp=CAU"
+  },
+  {
+    "id": 9,
+    "name": "G.Skill Trident Z RGB 32GB RAM",
+    "price": 159.99,
+    "category": "Memory",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXaNTyjdR1o8iNo8Pue1fQy81bWlzoMznsYQ&usqp=CAU"
+  },
+  {
+    "id": 10,
+    "name": "AMD Ryzen 7 5800X",
+    "price": 399.99,
+    "category": "Processor",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQGRJr3TvqS3uGHdko2y0_90uhHL9mSd2L2A&usqp=CAU"
+  },
+  {
+    "id": 11,
+    "name": "MSI MAG B550 TOMAHAWK Motherboard",
+    "price": 179.99,
+    "category": "Motherboard",
+    "image_url": "https://example.com/images/mag-b550-tomahawk.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Crucial MX500 500GB SATA SSD",
+    "price": 69.99,
+    "category": "Storage",
+    "image_url": "https://example.com/images/mx500-ssd.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Corsair RM850x 850W Gold PSU",
+    "price": 129.99,
+    "category": "Power Supply",
+    "image_url": "https://example.com/images/rm850x-psu.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Gigabyte GeForce GTX 1660 Ti",
+    "price": 279.99,
+    "category": "Graphics Card",
+    "image_url": "https://example.com/images/gtx-1660ti.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Noctua NH-D15 CPU Cooler",
+    "price": 89.99,
+    "category": "Cooling",
+    "image_url": "https://example.com/images/nh-d15.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Western Digital Blue 1TB HDD",
+    "price": 44.99,
+    "category": "Storage",
+    "image_url": "https://example.com/images/wd-blue-hdd.jpg"
+  },
+  {
+    "id": 17,
+    "name": "HyperX Fury 16GB DDR4 RAM",
+    "price": 69.99,
+    "category": "Memory",
+    "image_url": "https://example.com/images/hyperx-fury.jpg"
+  },
+  {
+    "id": 18,
+    "name": "Intel Core i5-9600K",
+    "price": 239.99,
+    "category": "Processor",
+    "image_url": "https://example.com/images/i5-9600k.jpg"
+  },
+  {
+    "id": 19,
+    "name": "ASUS TUF Gaming X570-Plus Motherboard",
+    "price": 189.99,
+    "category": "Motherboard",
+    "image_url": "https://example.com/images/tuf-x570.jpg"
+  },
+  {
+    "id": 20,
+    "name": "ADATA XPG SX8200 Pro 256GB NVMe SSD",
+    "price": 49.99,
+    "category": "Storage",
+    "image_url": "https://example.com/images/xpg-sx8200.jpg"
+  },
+  {
+    "id": 21,
+    "name": "Corsair CX650M 650W Bronze PSU",
+    "price": 79.99,
+    "category": "Power Supply",
+    "image_url": "https://example.com/images/cx650m-psu.jpg"
+  },
+  {
+    "id": 22,
+    "name": "AMD Ryzen 5 3600X",
+    "price": 249.99,
+    "category": "Processor",
+    "image_url": "https://example.com/images/ryzen-3600x.jpg"
+  },
+  {
+    "id": 23,
+    "name": "ZOTAC GeForce RTX 3060",
+    "price": 399.99,
+    "category": "Graphics Card",
+    "image_url": "https://example.com/images/rtx-3060.jpg"
+  },
+  {
+    "id": 24,
+    "name": "Kingston HyperX Fury RGB 32GB RAM",
+    "price": 149.99,
+    "category": "Memory",
+    "image_url": "https://example.com/images/hyperx-fury-rgb.jpg"
+  },
+  {
+    "id": 25,
+    "name": "Samsung 860 EVO 1TB SATA SSD",
+    "price": 99.99,
+    "category": "Storage",
+    "image_url": "https://example.com/images/860-evo-ssd.jpg"
+  },
+  {
+    "id": 26,
+    "name": "MSI MPG B550 GAMING EDGE WIFI Motherboard",
+    "price": 209.99,
+    "category": "Motherboard",
+    "image_url": "https://example.com/images/mpg-b550-gaming.jpg"
+  },
+  {
+    "id": 27,
+    "name": "Cooler Master Hyper 212 RGB CPU Cooler",
+    "price": 44.99,
+    "category": "Cooling",
+    "image_url": "https://example.com/images/hyper-212-rgb.jpg"
+  },
+  {
+    "id": 28,
+    "name": "Seagate FireCuda 2TB SSHD",
+    "price": 89.99,
+    "category": "Storage",
+    "image_url": "https://example.com/images/firecuda-sshd.jpg"
+  },
+  {
+    "id": 29,
+    "name": "EVGA 600W 80+ White PSU",
+    "price": 49.99,
+    "category": "Power Supply",
+    "image_url": "https://example.com/images/evga-600w.jpg"
+  },
+  {
+    "id": 30,
+    "name": "Crucial Ballistix 16GB DDR4 RAM",
+    "price": 59.99,
+    "category": "Memory",
+    "image_url": "https://example.com/images/ballistix-ram.jpg"
+  }
+]
